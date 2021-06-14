@@ -24,4 +24,4 @@ The algorithm solving an 8-puzzle problem can be solved by the following steps:
 11. Current state gets expanded;
 12. Steps 2 – 9 are applied to all the matrices obtained after expanding until the goal state occurs as the current state.
 
-<p align="center"> <img src="algorithm-1.jpg" /> <br /> Figure 2. Example of the algorithm </p>
+<p align="center"> <img src="algorithm.jpg" alt="drawing" width="600"/> <br /> Figure 2. Example of the algorithm </p>
