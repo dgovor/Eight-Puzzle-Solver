@@ -10,7 +10,7 @@ An 8-puzzle can be imagined as a 3-by-3 grid with 8 blocks located inside this g
 
 ## Algorithm
 
-The algorithm solving an 8-puzzle problem can be solved by the following steps:
+The 8-puzzle problem can be solved by the following algorithm (Depicted in Figure 2):
 1. Accept the initial state and goal state input;
 2. Check if the empty square can move up, down, left, or right;
 3. Write down all new matrices obtained after performing the move in each possible direction;
