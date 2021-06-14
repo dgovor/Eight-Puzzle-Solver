@@ -23,3 +23,5 @@ The algorithm solving an 8-puzzle problem can be solved by the following steps:
 10. Algorithm checks if the current state occurs among any known matrices. If it does then their values _f_ are set as NaN and Step 9 is repeated. By doing so one can assure that algorithm will not take the same matrix repeatedly;
 11. Current state gets expanded;
 12. Steps 2 – 9 are applied to all the matrices obtained after expanding until the goal state occurs as the current state.
+
+<p align="center"> <img src="algorithm-1.jpg" /> <br /> Figure 2. Example of the algorithm </p>
