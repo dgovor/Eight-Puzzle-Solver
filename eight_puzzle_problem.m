@@ -2,16 +2,16 @@ clc;
 clear;
 close all;
 
-% A = [2 4 3; 1 5 6; 8 0 7];
-% B = [1 2 3; 8 0 4; 7 6 5];
+% A = [1 3 6; 5 0 8; 4 2 7];
+% B = [1 2 3; 4 5 6; 7 8 0];
 
 % A = [4 7 5; 2 0 6; 8 3 1];
 % B = [1 4 7; 2 5 8; 3 6 0];
 
 disp('Input example:')
-disp('2 4 3')
-disp('1 5 6')
-disp('8 0 7')
+disp('1 3 6')
+disp('5 0 8')
+disp('4 2 7')
 
 try
     fprintf('\nInput initial state row by row. Each element is separated by space or comma.\n')
