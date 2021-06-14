@@ -1,14 +1,11 @@
 # Eight-Puzzle-Solver
-AI model that solves an 8-puzzle problem using the A* search algorithm
+AI model that solves an 8-puzzle problem using the A* search algorithm.
 
 ## Description
 
 The proposed algorithm was written in MATLAB as a possible solver for the 8-puzzle problem.
- 
-
-## Dataset
-
-The dataset provided by Kaggle consists of 2919 samples with 79 features each. This dataset originally split into training and testing datasets with 1460 and 1459 samples, respectively. In order to justify our models performance, the training dataset is split into two subsets of data. One subset contains 86% of the original training data and is used to train our model, second subset that is called validation subset contains the remaining 14% and is used to validate our model. The accuracy of validation with the 14% of the training data will provide us with an understanding of the efficiency of our design.
+An 8-puzzle can be imagined
+![8-puzzle](https://github.com/dgovor/Eight-Puzzle-Solver/blob/main/8-puzzle.jpg?raw=true)
 
 ## Data preprocessing
 
