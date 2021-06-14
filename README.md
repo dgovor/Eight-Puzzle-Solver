@@ -4,7 +4,7 @@ AI model that solves an 8-puzzle problem using the A* search algorithm.
 ## Description
 
 The proposed algorithm was written in MATLAB as a possible solver for the 8-puzzle problem.
-An 8-puzzle can be imagined
+An 8-puzzle can be imagined in the
 ![8-puzzle](https://github.com/dgovor/Eight-Puzzle-Solver/blob/main/8-puzzle.jpg?raw=true)
 
 ## Data preprocessing
